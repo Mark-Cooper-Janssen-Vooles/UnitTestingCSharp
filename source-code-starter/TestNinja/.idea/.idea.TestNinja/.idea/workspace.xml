@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b613b956-d289-41f7-8ac7-d21d5a32b67e" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5DE66FF1-1FCB-4513-8463-255B392B032B/a1/e34c99d6/WebClient.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/11BD515F-D2A0-4526-8509-D23726DE0F46/ca/34f3e0f1/String.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/FizzBuzz.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/Stack.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D1BBB9E5-A742-475F-B87A-7E0233E674DB/06/23391abe/DbSet`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/CustomerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/11BD515F-D2A0-4526-8509-D23726DE0F46/db/7c4d8a96/EventHandler`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/HtmlFormatter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D1BBB9E5-A742-475F-B87A-7E0233E674DB/e9/e7dae8dc/DbContext.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/Math.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/ErrorLogger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/DemeritPointsCalculator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/OrderService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/VideoService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/InstallerHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/Product.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/EmployeeController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/BookingHelper.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/TestNinja/Class1.cs" />
+        <option value="$PROJECT_DIR$/TestNinja/Fundamentals/CustomerController.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/Tests.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/ReservationTests.cs" />
+        <option value="$PROJECT_DIR$/TestNinja/Fundamentals/Math.cs" />
+        <option value="$PROJECT_DIR$/TestNinja/Fundamentals/HtmlFormatter.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/Class1.cs" />
+        <option value="$PROJECT_DIR$/TestNinja/Fundamentals/DemeritPointsCalculator.cs" />
+        <option value="$PROJECT_DIR$/TestNinja/Fundamentals/Stack.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/FakeFileReader.cs" />
+        <option value="$PROJECT_DIR$/TestNinja/Mocking/Program.cs" />
+        <option value="$PROJECT_DIR$/TestNinja/Mocking/FileDownloader.cs" />
+        <option value="$PROJECT_DIR$/TestNinja/Mocking/EmployeeStorage.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/Mocking/EmployeeControllerTests.cs" />
+        <option value="$PROJECT_DIR$/TestNinja/Mocking/EmployeeController.cs" />
+        <option value="$USER_HOME$/Source Code/Mocking/BookingHelper.cs" />
+        <option value="$PROJECT_DIR$/TestNinja/Mocking/StatementGenerator.cs" />
+        <option value="$PROJECT_DIR$/TestNinja/Mocking/HousekeeperHelper.cs" />
+        <option value="$PROJECT_DIR$/TestNinja/Mocking/EmailSender.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/Mocking/HouseKeeperServiceTests.cs" />
+        <option value="$PROJECT_DIR$/TestNinja/Mocking/HouseKeeperService.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/HtmlFormatterTests.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/MathTests.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/CustomerControllerTests.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/ErrorLoggerTests.cs" />
+        <option value="$PROJECT_DIR$/TestNinja/Fundamentals/ErrorLogger.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/FizzBuzzTests.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/DemeritPointsCalculatorTests.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/StackTests.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/MockFileReader.cs" />
+        <option value="$PROJECT_DIR$/TestNinja/Mocking/OrderService.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/Mocking/OrderServiceTests.cs" />
+        <option value="$PROJECT_DIR$/TestNinja/Mocking/Product.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/Mocking/ProductTests.cs" />
+        <option value="$PROJECT_DIR$/TestNinja/Mocking/FileReader.cs" />
+        <option value="$PROJECT_DIR$/TestNinja/Mocking/VideoRepository.cs" />
+        <option value="$PROJECT_DIR$/TestNinja/Mocking/VideoService.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/Mocking/VideoServiceTests.cs" />
+        <option value="$PROJECT_DIR$/TestNinja/Mocking/InstallerHelperRepository.cs" />
+        <option value="$PROJECT_DIR$/TestNinja/Mocking/InstallerHelper.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/Mocking/InstallerHelperTests.cs" />
+        <option value="$PROJECT_DIR$/TestNinja/Mocking/BookingRepository.cs" />
+        <option value="$PROJECT_DIR$/TestNinja/Mocking/BookingHelper.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/Mocking/BookingHelperTests.cs" />
+        <option value="$PROJECT_DIR$/TestNinja/Mocking/HousekeeperHelperRepository.cs" />
+        <option value="$PROJECT_DIR$/TestNinja/Mocking/HousekeeperHelper2.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/Mocking/HouseKeeperHelper2Tests.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hniaaZ0Zjfn1CMldtqKjykD5p1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34994584" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30010834" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RunManager" selected=".NET Project.Default">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b613b956-d289-41f7-8ac7-d21d5a32b67e" name="Default" comment="" />
+      <created>1507227824194</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1507227824194</updated>
+      <workItem from="1507227825406" duration="23277000" />
+      <workItem from="1508952072060" duration="74000" />
+      <workItem from="1600653329079" duration="703000" />
+      <workItem from="1600837733091" duration="4216000" />
+      <workItem from="1600911916441" duration="14456000" />
+      <workItem from="1601255440269" duration="6191000" />
+      <workItem from="1601421070883" duration="4817000" />
+      <workItem from="1601592884146" duration="8871000" />
+      <workItem from="1601849628485" duration="12109000" />
+      <workItem from="1601938848535" duration="12925000" />
+    </task>
+    <task id="LOCAL-00001" summary=".">
+      <created>1507240218760</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1507240218760</updated>
+    </task>
+    <task id="LOCAL-00002" summary=".">
+      <created>1507240250446</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1507240250446</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="422" height="464" key="DebuggerActiveHint" timestamp="1601879188658">
+      <screen x="-936" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="422" height="464" key="DebuggerActiveHint/0.0.1536.824/-936.-1080.1920.1040@-936.-1080.1920.1040" timestamp="1601879188658" />
+    <state width="1877" height="375" key="GridCell.Tab.0.bottom" timestamp="1601938813299">
+      <screen x="-897" y="-1100" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.0.bottom/0.0.1536.824/-897.-1100.1920.1040/1023.-1080.1920.1040@-897.-1100.1920.1040" timestamp="1601938813299" />
+    <state width="1877" height="375" key="GridCell.Tab.0.bottom/0.0.1536.824/-936.-1080.1920.1040@-936.-1080.1920.1040" timestamp="1601879267651" />
+    <state width="1877" height="375" key="GridCell.Tab.0.center" timestamp="1601938813298">
+      <screen x="-897" y="-1100" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.0.center/0.0.1536.824/-897.-1100.1920.1040/1023.-1080.1920.1040@-897.-1100.1920.1040" timestamp="1601938813298" />
+    <state width="1877" height="375" key="GridCell.Tab.0.center/0.0.1536.824/-936.-1080.1920.1040@-936.-1080.1920.1040" timestamp="1601879267651" />
+    <state width="1877" height="375" key="GridCell.Tab.0.left" timestamp="1601938813298">
+      <screen x="-897" y="-1100" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.0.left/0.0.1536.824/-897.-1100.1920.1040/1023.-1080.1920.1040@-897.-1100.1920.1040" timestamp="1601938813298" />
+    <state width="1877" height="375" key="GridCell.Tab.0.left/0.0.1536.824/-936.-1080.1920.1040@-936.-1080.1920.1040" timestamp="1601879267651" />
+    <state width="1877" height="375" key="GridCell.Tab.0.right" timestamp="1601938813298">
+      <screen x="-897" y="-1100" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.0.right/0.0.1536.824/-897.-1100.1920.1040/1023.-1080.1920.1040@-897.-1100.1920.1040" timestamp="1601938813298" />
+    <state width="1877" height="375" key="GridCell.Tab.0.right/0.0.1536.824/-936.-1080.1920.1040@-936.-1080.1920.1040" timestamp="1601879267651" />
+    <state width="1877" height="375" key="GridCell.Tab.1.bottom" timestamp="1601938813300">
+      <screen x="-897" y="-1100" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.1.bottom/0.0.1536.824/-897.-1100.1920.1040/1023.-1080.1920.1040@-897.-1100.1920.1040" timestamp="1601938813300" />
+    <state width="1877" height="375" key="GridCell.Tab.1.bottom/0.0.1536.824/-936.-1080.1920.1040@-936.-1080.1920.1040" timestamp="1601879267651" />
+    <state width="1877" height="375" key="GridCell.Tab.1.center" timestamp="1601938813299">
+      <screen x="-897" y="-1100" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.1.center/0.0.1536.824/-897.-1100.1920.1040/1023.-1080.1920.1040@-897.-1100.1920.1040" timestamp="1601938813299" />
+    <state width="1877" height="375" key="GridCell.Tab.1.center/0.0.1536.824/-936.-1080.1920.1040@-936.-1080.1920.1040" timestamp="1601879267651" />
+    <state width="1877" height="375" key="GridCell.Tab.1.left" timestamp="1601938813299">
+      <screen x="-897" y="-1100" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.1.left/0.0.1536.824/-897.-1100.1920.1040/1023.-1080.1920.1040@-897.-1100.1920.1040" timestamp="1601938813299" />
+    <state width="1877" height="375" key="GridCell.Tab.1.left/0.0.1536.824/-936.-1080.1920.1040@-936.-1080.1920.1040" timestamp="1601879267651" />
+    <state width="1877" height="375" key="GridCell.Tab.1.right" timestamp="1601938813300">
+      <screen x="-897" y="-1100" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.1.right/0.0.1536.824/-897.-1100.1920.1040/1023.-1080.1920.1040@-897.-1100.1920.1040" timestamp="1601938813300" />
+    <state width="1877" height="375" key="GridCell.Tab.1.right/0.0.1536.824/-936.-1080.1920.1040@-936.-1080.1920.1040" timestamp="1601879267651" />
+    <state width="1877" height="375" key="GridCell.Tab.2.bottom" timestamp="1601938813300">
+      <screen x="-897" y="-1100" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.2.bottom/0.0.1536.824/-897.-1100.1920.1040/1023.-1080.1920.1040@-897.-1100.1920.1040" timestamp="1601938813300" />
+    <state width="1877" height="375" key="GridCell.Tab.2.bottom/0.0.1536.824/-936.-1080.1920.1040@-936.-1080.1920.1040" timestamp="1601879267651" />
+    <state width="1877" height="375" key="GridCell.Tab.2.center" timestamp="1601938813300">
+      <screen x="-897" y="-1100" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.2.center/0.0.1536.824/-897.-1100.1920.1040/1023.-1080.1920.1040@-897.-1100.1920.1040" timestamp="1601938813300" />
+    <state width="1877" height="375" key="GridCell.Tab.2.center/0.0.1536.824/-936.-1080.1920.1040@-936.-1080.1920.1040" timestamp="1601879267651" />
+    <state width="1877" height="375" key="GridCell.Tab.2.left" timestamp="1601938813300">
+      <screen x="-897" y="-1100" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.2.left/0.0.1536.824/-897.-1100.1920.1040/1023.-1080.1920.1040@-897.-1100.1920.1040" timestamp="1601938813300" />
+    <state width="1877" height="375" key="GridCell.Tab.2.left/0.0.1536.824/-936.-1080.1920.1040@-936.-1080.1920.1040" timestamp="1601879267651" />
+    <state width="1877" height="375" key="GridCell.Tab.2.right" timestamp="1601938813300">
+      <screen x="-897" y="-1100" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.2.right/0.0.1536.824/-897.-1100.1920.1040/1023.-1080.1920.1040@-897.-1100.1920.1040" timestamp="1601938813300" />
+    <state width="1877" height="375" key="GridCell.Tab.2.right/0.0.1536.824/-936.-1080.1920.1040@-936.-1080.1920.1040" timestamp="1601879267651" />
+    <state width="1877" height="375" key="GridCell.Tab.3.bottom" timestamp="1601938813300">
+      <screen x="-897" y="-1100" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.3.bottom/0.0.1536.824/-897.-1100.1920.1040/1023.-1080.1920.1040@-897.-1100.1920.1040" timestamp="1601938813300" />
+    <state width="1877" height="375" key="GridCell.Tab.3.bottom/0.0.1536.824/-936.-1080.1920.1040@-936.-1080.1920.1040" timestamp="1601879267652" />
+    <state width="1877" height="375" key="GridCell.Tab.3.center" timestamp="1601938813300">
+      <screen x="-897" y="-1100" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.3.center/0.0.1536.824/-897.-1100.1920.1040/1023.-1080.1920.1040@-897.-1100.1920.1040" timestamp="1601938813300" />
+    <state width="1877" height="375" key="GridCell.Tab.3.center/0.0.1536.824/-936.-1080.1920.1040@-936.-1080.1920.1040" timestamp="1601879267651" />
+    <state width="1877" height="375" key="GridCell.Tab.3.left" timestamp="1601938813300">
+      <screen x="-897" y="-1100" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.3.left/0.0.1536.824/-897.-1100.1920.1040/1023.-1080.1920.1040@-897.-1100.1920.1040" timestamp="1601938813300" />
+    <state width="1877" height="375" key="GridCell.Tab.3.left/0.0.1536.824/-936.-1080.1920.1040@-936.-1080.1920.1040" timestamp="1601879267651" />
+    <state width="1877" height="375" key="GridCell.Tab.3.right" timestamp="1601938813300">
+      <screen x="-897" y="-1100" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.3.right/0.0.1536.824/-897.-1100.1920.1040/1023.-1080.1920.1040@-897.-1100.1920.1040" timestamp="1601938813300" />
+    <state width="1877" height="375" key="GridCell.Tab.3.right/0.0.1536.824/-936.-1080.1920.1040@-936.-1080.1920.1040" timestamp="1601879267652" />
+    <state width="1877" height="375" key="GridCell.Tab.4.bottom" timestamp="1601938813301">
+      <screen x="-897" y="-1100" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.4.bottom/0.0.1536.824/-897.-1100.1920.1040/1023.-1080.1920.1040@-897.-1100.1920.1040" timestamp="1601938813301" />
+    <state width="1877" height="375" key="GridCell.Tab.4.bottom/0.0.1536.824/-936.-1080.1920.1040@-936.-1080.1920.1040" timestamp="1601879267652" />
+    <state width="1877" height="375" key="GridCell.Tab.4.center" timestamp="1601938813301">
+      <screen x="-897" y="-1100" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.4.center/0.0.1536.824/-897.-1100.1920.1040/1023.-1080.1920.1040@-897.-1100.1920.1040" timestamp="1601938813301" />
+    <state width="1877" height="375" key="GridCell.Tab.4.center/0.0.1536.824/-936.-1080.1920.1040@-936.-1080.1920.1040" timestamp="1601879267652" />
+    <state width="1877" height="375" key="GridCell.Tab.4.left" timestamp="1601938813301">
+      <screen x="-897" y="-1100" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.4.left/0.0.1536.824/-897.-1100.1920.1040/1023.-1080.1920.1040@-897.-1100.1920.1040" timestamp="1601938813301" />
+    <state width="1877" height="375" key="GridCell.Tab.4.left/0.0.1536.824/-936.-1080.1920.1040@-936.-1080.1920.1040" timestamp="1601879267652" />
+    <state width="1877" height="375" key="GridCell.Tab.4.right" timestamp="1601938813301">
+      <screen x="-897" y="-1100" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.4.right/0.0.1536.824/-897.-1100.1920.1040/1023.-1080.1920.1040@-897.-1100.1920.1040" timestamp="1601938813301" />
+    <state width="1877" height="375" key="GridCell.Tab.4.right/0.0.1536.824/-936.-1080.1920.1040@-936.-1080.1920.1040" timestamp="1601879267652" />
+    <state x="-274" y="-875" width="672" height="678" key="search.everywhere.popup" timestamp="1601962007835">
+      <screen x="-897" y="-1100" width="1920" height="1040" />
+    </state>
+    <state x="-274" y="-875" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/-897.-1100.1920.1040/1023.-1080.1920.1040@-897.-1100.1920.1040" timestamp="1601962007835" />
+    <state x="-313" y="-855" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/-936.-1080.1920.1040@-936.-1080.1920.1040" timestamp="1601082162518" />
+    <state x="498" y="178" width="672" height="538" key="search.everywhere.popup/0.0.1536.824/-936.-1080.1920.1040@0.0.1536.824" timestamp="1600922733414" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/TestNinja/Mocking/InstallerHelper.cs</url>
+          <line>26</line>
+          <properties documentPath="C:\Users\mark.janssen-vooles\code\tutorials\UnitTestingC#\source-code-starter\TestNinja\TestNinja\Mocking\InstallerHelper.cs" initialLine="26">
+            <startOffsets>
+              <option value="957" />
+            </startOffsets>
+            <endOffsets>
+              <option value="969" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

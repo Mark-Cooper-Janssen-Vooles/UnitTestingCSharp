@@ -1,0 +1,62 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/Environment/Hierarchy/EntityFrameworkOptions/IsAlreadyNotifiedAboutEntityFramework/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=016c3c5c_002D4426_002D4369_002D9288_002Dd697b9f81caf/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="OverlappingBookingsExist_OverlappingBookingArrivalDateLessThanDepartureDate_ReturnsBookingReference #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::521A7616-6B56-4278-B649-2984A118106C::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.Mocking.BookingHelperTests.OverlappingBookingsExist_OverlappingBookingArrivalDateLessThanDepartureDate_ReturnsBookingReference&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3a816fcf_002Db4f1_002D4576_002Da656_002D5edf573f2e43/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="DownloadInstaller_GivenErrorIsThrown_ReturnsFalse" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::521A7616-6B56-4278-B649-2984A118106C::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.Mocking.InstallerHelperTests.DownloadInstaller_GivenErrorIsThrown_ReturnsFalse&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6d8b65bf_002D44df_002D4a20_002Db551_002D57dc58751d48/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="OverlappingBookingsExist_OverlappingBookingArrivalDateLessThanDepartureDate_ReturnsBookingReference" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::521A7616-6B56-4278-B649-2984A118106C::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.Mocking.BookingHelperTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7758a5da_002Dd60b_002D4c6e_002D88bb_002D034b8dca77ea/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="DownloadInstaller_GivenErrorIsThrown_ReturnsFalse #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::521A7616-6B56-4278-B649-2984A118106C::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.Mocking.InstallerHelperTests.DownloadInstaller_GivenErrorIsThrown_ReturnsFalse&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::521A7616-6B56-4278-B649-2984A118106C::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.Mocking.BookingHelperTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e8552380_002Dd06d_002D4ec2_002Dbd2e_002D6e361e7ca1ab/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from MathTests.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;ProjectFile&gt;521A7616-6B56-4278-B649-2984A118106C/f:MathTests.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;521A7616-6B56-4278-B649-2984A118106C/f:HtmlFormatterTests.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;521A7616-6B56-4278-B649-2984A118106C/f:CustomerControllerTests.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;521A7616-6B56-4278-B649-2984A118106C/f:ErrorLoggerTests.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;521A7616-6B56-4278-B649-2984A118106C/f:FizzBuzzTests.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::521A7616-6B56-4278-B649-2984A118106C::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.DemeritPointsCalculatorTests.CalculateDemeritPoints_WhenSpeedIsZero_ShouldThrowArgumentOutOfRangeException&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::521A7616-6B56-4278-B649-2984A118106C::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.DemeritPointsCalculatorTests.CalculateDemeritPoints_WhenSpeedIsNegativeOrGreaterThanMaxSpeed_ShouldThrowArgumentOutOfRangeException&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::521A7616-6B56-4278-B649-2984A118106C::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.DemeritPointsCalculatorTests.CalculateDemeritPoints_WhenSpeedIsLessThanOrEqualToSpeedLimit_ShouldReturnZero&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::521A7616-6B56-4278-B649-2984A118106C::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.DemeritPointsCalculatorTests.CalculateDemeritPoints_WhenSpeedIsLessOverSpeedLimit_ShouldReturnCorrectDemeritPoints&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::521A7616-6B56-4278-B649-2984A118106C::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.DemeritPointsCalculatorTests.CalculateDemeritPoints_WhenSpeedIsFiveKmOverSpeedLimit_ShouldReturnCorrectDemeritPoints&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::521A7616-6B56-4278-B649-2984A118106C::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.StackTests.Push_WhenCalledWithNull_ShouldThrow_ArgumentNullException&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::521A7616-6B56-4278-B649-2984A118106C::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.StackTests.Push_WhenCalledWithObject_ShouldAddItToTheStack&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::521A7616-6B56-4278-B649-2984A118106C::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.StackTests.Pop_WhenCalledWithEmptyStack_ShouldThrowInvalidOperationException&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::521A7616-6B56-4278-B649-2984A118106C::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.StackTests.Pop_WhenCalledWithObject_ShouldRemoveItFromTheStack&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::521A7616-6B56-4278-B649-2984A118106C::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.StackTests.Peek_WhenCalledWithEmptyStack_ShouldThrowInvalidOperationException&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::521A7616-6B56-4278-B649-2984A118106C::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.StackTests.Peek_WhenCalledWithObject_ShouldReturnObject&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::521A7616-6B56-4278-B649-2984A118106C::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.StackTests.Count_WhenEmptyStack_ReturnZero&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::521A7616-6B56-4278-B649-2984A118106C::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.StackTests.Pop_WhenCalledWithObjects_ShouldRemoveLastAddedObjectFromTheStack&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::521A7616-6B56-4278-B649-2984A118106C::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.Mocking.VideoServiceTests.ReadVideoTitle_EmptyFile_ReturnError&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::521A7616-6B56-4278-B649-2984A118106C::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.Mocking.OrderServiceTests.PlaceOrder_WhenCalled_ShouldStoreTheOrder&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::521A7616-6B56-4278-B649-2984A118106C::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.Mocking.ProductTests.GetPrice_WhenCustomerIsGold_ShouldGiveDiscountedPrice&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::521A7616-6B56-4278-B649-2984A118106C::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.Mocking.VideoServiceTests.GetUnprocessedVideosAsCsv_WhenCalledWithVideosInTheDb_ReturnsCsvOfTitles&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::521A7616-6B56-4278-B649-2984A118106C::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.Mocking.VideoServiceTests.GetUnprocessedVideosAsCsv_WhenCalledWithNoUnprocessedVideos_ReturnsCsvOfTitles&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::521A7616-6B56-4278-B649-2984A118106C::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.Mocking.VideoServiceTests.GetUnprocessedVideosAsCsv_WhenCalledWithOneUnprocessedVideo_ReturnsCsvOfTitles&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::521A7616-6B56-4278-B649-2984A118106C::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.Mocking.VideoServiceTests&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::521A7616-6B56-4278-B649-2984A118106C::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.Mocking.InstallerHelperTests.DownloadInstaller_GivenValidArguments_ReturnsTrue&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::521A7616-6B56-4278-B649-2984A118106C::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.Mocking.InstallerHelperTests.DownloadInstaller_GivenErrorIsThrown_ReturnsFalse&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::521A7616-6B56-4278-B649-2984A118106C::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.Mocking.EmployeeControllerTests.DeleteEmployee_WhenCalled_ShouldReturnRedirectToAction&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::521A7616-6B56-4278-B649-2984A118106C::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.Mocking.HouseKeeperHelper2Tests.SendStatementEmails_NoHouseKeeperEmail_StatementGeneratorSaveStatementIsNotCalled&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::521A7616-6B56-4278-B649-2984A118106C::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.Mocking.HouseKeeperHelper2Tests.SendStatementEmails_ReportHasNoData_TrySendStatementEmailIsNotCalled&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::521A7616-6B56-4278-B649-2984A118106C::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.Mocking.HouseKeeperHelper2Tests.SendStatementEmails_statementFilenameIsEmptyString_TrySendStatementEmailIsNotCalled&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::521A7616-6B56-4278-B649-2984A118106C::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.Mocking.HouseKeeperHelper2Tests.SendStatementEmails_EmailSenderEmailFileSucceeds_NoExceptionThrownReturnsTrue&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::521A7616-6B56-4278-B649-2984A118106C::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.Mocking.HouseKeeperHelper2Tests.SendStatementEmails_EmailSenderEmailFileUnsuccessful_xtraMessageBoxShowIsCalled&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
